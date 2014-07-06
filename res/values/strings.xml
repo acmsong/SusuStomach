@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">速速养胃</string>
+    <string name="action_settings">积分墙</string>
+    <string name="A">养胃知识</string>
+    <string name="B">养胃保健操</string>
+    <string name="C">胃部详解</string>
+    <string name="morning">早餐如何养胃</string>
+    <string name="illnesstip">胃病饮食的11条原则</string>
+    <string name="fiveheal">胃病五养的诀窍</string>
+    <string name="normalfood">常见养胃食物</string>
+    <string name="threeseven">三分治七分养</string>
+    <string name="stopeat">伤胃食品</string>
+    <string name="everyillness">各种胃部症状饮食清单</string>
+    <string name="warnthing">胃病应注意的事项</string>
+    <string name="raremethod">胃病治疗偏方</string>
+    <string name="dayhealth">日常保健</string>
+    <string name="dontsix">养胃要饭后6件事做不得</string>
+    <string name="errorfour">关于养胃的四个误区</string>
+    <string name="bean">豆浆咋喝才健康</string>
+    <string name="irritatefood">刺激性食物有哪些</string>
+    <string name="simpleaction">简单养胃保健操</string>
+    <string name="coldaction">天冷胃寒养胃四步操</string>
+    <string name="toeaction">脚趾保健操助你健脾更养胃</string>
+    <string name="twelveaction">十二式肠胃保健操</string>
+
+    <drawable name="bkcolor">#D1EEEE</drawable>
+
+</resources>
